@@ -1,0 +1,54 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Oo]bj/
+MemoryCaptures/
+ExportedObj/
+.consulo/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.bak
+*.old
+*.orig
+*.pyc
+*.class
+*.DS_Store
+*.apk
+*.aab
+.DS_Store
+Thumbs.db
+
+# Crash Reports
+sysinfo.txt
+
+# Auto-generated VS/JetBrains Rider project files
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# Unity Addressables
+*.addressables
+
+# Other
+.env
